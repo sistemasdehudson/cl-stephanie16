@@ -81,6 +81,7 @@
         'https://github.com/OCA/stock-logistics-workflow -b 16.0',
         'https://github.com/OCA/stock-logistics-workflow -b 16.0',
         'https://github.com/regaby/mercadopago -b 16.0',
+        'https://github.com/sistemassdeh/POS---Cliente-Tipo-de-Responsabilidad-AFIP -b 16.0',
     ],
     # list of images to use in the form 'name image-url'
     "docker-images": [
